@@ -1,0 +1,5 @@
+/home/sets/Siva_Guru/PyQt5/Practice/build/_deps/picotool/picotool
+/home/sets/Siva_Guru/PyQt5/Practice/build/_deps/picotool/picotoolTargets.cmake
+/home/sets/Siva_Guru/PyQt5/Practice/build/_deps/picotool/picotoolTargets-release.cmake
+/home/sets/Siva_Guru/PyQt5/Practice/build/_deps/picotool/picotoolConfig.cmake
+/home/sets/Siva_Guru/PyQt5/Practice/build/_deps/picotool/picotoolConfigVersion.cmake

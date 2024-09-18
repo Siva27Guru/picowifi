@@ -1,0 +1,5 @@
+/home/sets/Siva_Guru/PyQt5/Practice/build/pioasm-install/pioasm/pioasm
+/home/sets/Siva_Guru/PyQt5/Practice/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/sets/Siva_Guru/PyQt5/Practice/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/sets/Siva_Guru/PyQt5/Practice/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/sets/Siva_Guru/PyQt5/Practice/build/pioasm-install/pioasm/pioasmConfigVersion.cmake
